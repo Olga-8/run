@@ -41,4 +41,15 @@
             margin: 0 auto;
         }
     }
+    &_link {
+        margin-top: 18px;
+        font-weight: 500;
+        font-size: 16px;
+        color: #FFFFFF;
+        a {
+            text-transform: uppercase;
+            text-decoration: underline;
+            color: #FFFFFF;
+        }
+    }
 }
