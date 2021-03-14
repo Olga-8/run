@@ -1,5 +1,12 @@
 .title {
     text-align: center;
     color:black;
+    font-weight: 700;
+    font-size: 30px;
     text-transform: uppercase;
+    &_left {
+        text-align: left;
+        color:#fff;
+        font-size: 36px;
+    }
 }
